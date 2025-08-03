@@ -1,1 +1,3 @@
 Banana
+watermelon
+lemon
